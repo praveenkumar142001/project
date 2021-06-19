@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0%;
+    
+}
+body{
+    background-color: cadetblue;
+}
+
+
+
+
+.cam_name{
+    text-align: center;
+    background-color: rgb(197, 204, 204);
+    height: 50px;
+    width:40%;
+    border-radius: 10px;
+    font-style: normal;
+    font-size: 40px;
+    padding: 5px;
+    margin-left:30.5%;
+    margin-top: 30px;
+
+}
+/*.slide-frame{
+    overflow: hidden;
+    height: 800px;
+    width: 1200px;
+    margin-left: 360px;
+    margin-top: 50px;
+
+}
+ @-webkit-keyframes slide_animation{
+     0% {left:0px;}
+     10% {left:0px;}
+     20% {left:1200px;}
+     30% {left:1200px;}
+     40% {left:2400px;}
+     50% {left:2400px;}
+     60% {left:1200px;}
+     70% {left:1200px;}
+     80% {left:0px;}
+     90% {left:0px;} 
+     100% {left:0px;}
+ }
+.slide-image{
+    width: 3600px;
+    height: 800px;
+    margin: 0 0 0 -2400px;
+    position: relative;
+    -webkit-animation-name: slide_animation;
+    -webkit-animation-duration: 40s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+
+}
+.img-container{
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}*/
+#dslr{
+    height: 300px;
+    width: 400px;
+    margin-top: 50px;
+     margin-left: 35%; 
+
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+
+#h2{
+    margin-left: 350px;
+    font-size: 30px;
+    margin-top: 30px;
+    padding: 5px;
+}
+#features ul{
+    margin-left: 430px;
+    padding:0%;
+    font-size: 20px;
+    margin-right: 300px;
+
+
+}
+#features ul li{
+    margin-bottom: 10px;
+}
+.offers{
+    display: flex;
+}
+
+
+
+.no_cash_emi{
+    margin-top: 50px;
+    /* float: left; */
+    flex-basis: 31%;
+    height: 400px;
+    width: 300px;
+    border: 2px solid rgb(2, 0, 12);
+    margin-right: 100px;
+    margin-left: 120px;
+    border-radius: 10px;
+    background-color: rgb(89, 105, 105);
+    box-shadow:5px 5px 10px darkgray;
+
+
+}
+.no_cash_emi h3{
+    font-size: 30px;
+    padding: 20px;
+    color: cornsilk;
+}
+.no_cash_emi p{
+    font-size: 20px;
+    padding: 20px;
+    color: cornsilk;
+    
+    
+}
+.bank_offer{
+    margin-top:50px ;
+    /* float: left; */
+    flex-basis: 31%;
+     height: 400px; 
+    width: 300px;
+    border: 2px solid black;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color: rgb(89, 105, 105);
+    box-shadow:5px 5px 10px darkgray;
+    /* margin-bottom: 50px; */
+
+}
+.bank_offer h3{
+    font-size: 30px;
+    padding: 20px;
+    color: cornsilk;
+}
+.bank_offer p{
+    font-size: 20px;
+    padding: 20px;
+    color: cornsilk;
+}
+.cashback{
+    margin-top: 50px;
+    /* float: left; */
+    flex-basis: 31%;
+     height: 400px; 
+    width: 300px;
+    border: 2px solid black;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color: rgb(89, 105, 105);
+    box-shadow:5px 5px 10px darkgray;
+    /* margin-bottom: 50px; */
+}
+.cashback h3{
+    font-size: 30px;
+    padding: 20px;
+    color: cornsilk;
+}
+.cashback p{
+    font-size: 20px;
+    padding: 20px;
+    color: cornsilk;
+}
+#cp{
+    margin-left: 450px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+#campic{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.img1{
+    flex-basis: 30%;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding:0%;
+    /* float: left; */
+    
+    margin-left:3%; 
+    height: 250px;
+    width: 300px;
+
+    
+
+}
+.img2{
+    flex-basis: 30%;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding:0%;
+    /* float: right; */
+    
+    /* margin-left:2%; */
+    height: 250px;
+    width: 300px;
+
+    
+
+}
+.img3{
+    flex-basis: 30%;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding:0%;
+    /* float: left; */
+    
+    margin-right:3%;
+    height: 250px;
+    width: 300px;
+    position: relative;
+
+   
+}
+.img3{
+    flex-basis: 30%;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding:0%;
+    /* float: left; */
+    
+    margin-right:3%;
+    height: 250px;
+    width: 300px;
+    position: relative;
+}
+#icons{
+    
+    
+    margin-top: 30px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
